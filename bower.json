@@ -1,10 +1,22 @@
 {
   "name": "parse-js-sdk",
   "version": "1.2.18",
+  "description": "Parse JavaScript SDK",
   "main": "lib/parse.js",
+  "keywords": [
+    "parse",
+    "javascript",
+    "sdk"
+  ],
+  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
-    "components"
-  ]
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.6.0"
+  }
 }
