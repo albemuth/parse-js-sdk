@@ -1,11 +1,11 @@
 {
-    "name": "parse-js-sdk",
-    "version": "1.2.18",
+    "name": "parse-sdk",
+    "version": "1.2.19",
     "description": "Simply hosting Parse's api on a public repo to enable access from Bower",
     "main": "lib/parse.js",
     "repository": { 
         "type": "git", 
-        "url": "https://github.com/albemuth/parse-js-sdk.git"
+        "url": "https://github.com/emersion/parse-sdk.git"
     },
     "keywords": [
         "Parse"
