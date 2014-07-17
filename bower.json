@@ -1,5 +1,5 @@
 {
-  "name": "parse-js-sdk",
+  "name": "parse-sdk",
   "version": "1.2.18",
   "main": "lib/parse.js",
   "ignore": [
