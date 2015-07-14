@@ -1,6 +1,6 @@
 {
     "name": "parse-js-sdk",
-    "version": "1.4.2",
+    "version": "1.5.0",
     "description": "Simply hosting Parse's api on a public repo to enable access from Bower",
     "main": "lib/parse.js",
     "repository": {
