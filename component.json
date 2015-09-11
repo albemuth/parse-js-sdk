@@ -2,5 +2,9 @@
   "name": "parse-js-sdk",
   "version": "1.6.0",
   "main": "./lib/parse.js",
-  "dependencies": {}
+  "dependencies": {},
+  "authors": [
+    "larsdecker",
+    "albemuth"
+  ]
 }

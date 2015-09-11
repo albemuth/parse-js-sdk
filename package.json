@@ -8,7 +8,8 @@
         "url": "https://github.com/larsdecker/parse-js-sdk.git"
     },
     "keywords": [
-        "Parse"
+        "Parse",
+        "Parse SDK"
     ],
     "author": "Parse Inc.",
     "license": "MIT"
