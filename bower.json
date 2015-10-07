@@ -1,6 +1,6 @@
 {
   "name": "parse-js-sdk",
-  "version": "1.6.2",
+  "version": "1.6.5",
   "main": "lib/parse.js",
   "ignore": [
     "**/.*",
